@@ -1,7 +1,7 @@
 ## 🏋️‍♂️ Projeto Kcal Counter
 
 <div align="center">
-<img alt="Capa do projeto" src="public/kcal.gif" width="50%">
+<img alt="Capa do projeto" src="public/kcal.gif" width="90%">
 </div>
 
 ## 💻 Projeto

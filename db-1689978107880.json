@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Corrida",
+      "type": "outcome",
+      "category": "Cardio",
+      "kcal": -500,
+      "createdAt": "2023-07-20T19:36:44.505Z"
+    }
+  ]
+}
